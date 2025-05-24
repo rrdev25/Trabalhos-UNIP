@@ -1,0 +1,8 @@
+# Pastas de compilação
+bin/
+obj/
+.vs/
+
+# Arquivos do usuário
+*.user
+*.suo
